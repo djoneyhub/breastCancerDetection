@@ -187,7 +187,7 @@ for image, label in two_images:
 
 """##augmentation"""
 
-pip install --upgrade tensorflow
+
 
 from collections import Counter
 
@@ -546,9 +546,7 @@ files.download("breast_cancer_classification_model.h5")
 
 """
 
-!pip install streamlit
 
-!pip install pyngrok
 
 import streamlit as st
 from PIL import Image
