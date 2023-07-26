@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # handle imports
-import matplotlib.pyplot as plt  # plotting
+
 import seaborn as sns # plotting
 import tensorflow as tf # Machine Learning Library
 import numpy as np # Mathematical Computation
