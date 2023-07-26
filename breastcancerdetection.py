@@ -9,7 +9,7 @@ Original file is located at
 
 # handle imports
 
-import seaborn as sns # plotting
+
 import tensorflow as tf # Machine Learning Library
 import numpy as np # Mathematical Computation
 import pathlib # for representing the imagepaths
