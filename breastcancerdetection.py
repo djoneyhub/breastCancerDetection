@@ -642,5 +642,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-!streamlit run breast_cancer_app.py
+
 
